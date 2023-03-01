@@ -1,0 +1,114 @@
+
+.navbar{
+    background-color: orange;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 10px;
+    margin-top: 10px;
+
+}
+.nav-link,.nav-title{
+    color: white !important;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif !important;
+    font-weight: bolder !important;
+    font-size: large !important;
+}
+.btn{
+    width: 250px !important;
+}
+.btn-outline-danger{
+    border: 1px solid maroon !important;
+    width: 250px  !important;
+    margin-right: 10px;
+    color: white !important;
+    /* background-color: red !important; */
+}
+.dropdown-item{
+/* border: 1px solid yellow !important; */
+/* background-color: yellow !important; */
+margin-top: 0 !important;
+margin-bottom: 0 !important;
+color: #ff0000 !important;
+}
+.card{
+margin-top: 30px;
+margin-left: 50px;
+background-color: orange !important;
+}
+.my-card{
+height: 480px !important;
+    background-color: orange !important;
+    }
+/* .card-text{
+    padding-top: 50px !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+} */
+table{
+    /* align-items: center; */
+    text-align: center;
+    margin-left: 150px;
+    margin-right: 20px;
+}
+.my-img{
+    height: 285px;
+    padding-top: 30px;
+}
+.img{
+    width: 1050px;
+    margin-top: 30px;
+    margin-left: 150px;
+}
+.box{
+border: 1px solid yellow;
+background-color: yellow;
+margin-top: 10px;
+border-radius: 25px;
+color: green;
+}
+.heading{
+    text-align: center;
+    font-family: 'Smokum', cursive;
+    /* font-size: ; */
+    font-weight: bolder;
+    padding-top: 10px;
+    text-shadow: #ff0000 1.5px 2px;
+}
+.card-title{
+    font-family: 'Genos', sans-serif;
+   font-weight: bolder;
+    font-size: x-large;
+    color: white !important;
+}
+.box1{
+    border: 1px solid yellow;
+background-color: yellow;
+margin-top: 10px;
+border-radius: 25px;
+}
+.section{
+    text-align: center;
+    font-family: 'Smokum', cursive;
+    /* font-size: ; */
+    font-weight: bolder;
+    padding-top: 10px;
+    text-shadow: green 1.5px 2px;
+    color: blue;
+}
+.box2{
+    border: 1px solid yellow;
+    background-color: yellow;
+    margin-top: 10px;
+    border-radius: 25px
+}
+.section{
+    text-align: center;
+    font-family: 'Smokum', cursive;
+    /* font-size: ; */
+    font-weight: bolder;
+    padding-top: 10px;
+    text-shadow: rgb(255, 255, 255) 1.5px 2px;
+    color: rgb(0, 0, 0);
+}
+
+
